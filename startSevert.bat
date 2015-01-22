@@ -1,0 +1,1 @@
+java -jar node_modules\nightwatch\lib\selenium-server-standalone-2.39.0.jar
